@@ -1,0 +1,73 @@
+html {
+	font-family: Georgia, Verdana, serif;
+}
+
+nav {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+	border: groove;
+}
+
+li#navs {
+	display: inline;
+	padding: 5px;
+	text-align: center;
+}
+
+center {
+	margin: auto;
+	width: 80%;
+	padding: 10px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+
+body#index {
+	background-color: #b30000;
+}
+
+body#packers {
+	background-color: #FFB612;
+}
+
+body#brewers {
+	background-color: #B6922E;
+}
+
+body#bucks {
+	background-color: #EEE1C6;
+}
+
+h4 {
+	font-weight: bold;
+}
+
+
+
+dt#home {
+	font-weight: bold;
+	text-decloration: underline;
+}
+
+dd#home {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul#pack {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
