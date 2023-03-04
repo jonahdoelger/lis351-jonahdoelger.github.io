@@ -9,6 +9,10 @@ h1, h4, h6, p, dl {
 	text-align: center;
 }
 
+h6 {
+	color: white;
+}
+
 nav {
 	background-color: #efefef;
 	margin: auto;
@@ -24,7 +28,7 @@ body{
 	border: groove;
 }
 
-li#navs {
+li#nav1, li#nav2, li#nav3, li#nav4 {
 	display: inline;
 	padding: 5px;
 	text-align: center;
@@ -59,12 +63,12 @@ h4 {
 
 
 
-dt#home {
+dt#home1, dt#home2, dt#home3, dt#home4 {
 	font-weight: bold;
 	text-decloration: underline;
 }
 
-dd#home {
+dd#home1, dd#home2, dd#home3, dd#home4 {
 	margin: 0px;
 	padding: 0px;
 }
