@@ -79,3 +79,15 @@ ul#pack {
 	margin-right: auto;
 	text-align: left;
 }
+
+h1#packers1, dt#packers2 {
+	color: #203731;
+}
+
+h1#bucks1, h4#bucks2, h4#bucks3, h4#bucks4 {
+	color: #00471B;
+}
+
+h1#brew1, h4#brew2, h4#brew3 {
+	color: #0A2351;
+}
